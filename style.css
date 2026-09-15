@@ -1,0 +1,72 @@
+  /* Basic page styling */
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-color: #f4f4f4;
+
+    padding: 30px;
+
+}
+
+/* ID selector */
+
+#main-heading {
+
+    color: #2c3e50;
+
+    text-align: center;
+
+}
+
+/* Class selector */
+
+.intro {
+
+    text-align: center;
+
+    color: #555;
+
+}
+
+/* Element selector */
+
+section {
+
+    padding: 20px;
+
+    margin: 20px 0;
+
+    border-radius: 10px;
+
+}
+
+/* Add Expense section */
+
+#add-expense {
+
+    background-color: #dff0d8;
+
+}
+
+/* Your Expenses section */
+
+.expenses {
+
+    background-color: #d9edf7;
+
+}
+
+input {
+
+    display: block;
+
+    width: 90%;
+
+    max-width: 400px;
+
+    padding: 10px;
+
+    margin: 10px 0; 
+}
